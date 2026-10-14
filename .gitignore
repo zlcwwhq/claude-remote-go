@@ -1,0 +1,17 @@
+# Build output
+/claude-remote
+/dist/
+
+# Local configuration (contains personal SSH host info)
+config.sh
+
+# macOS
+.DS_Store
+
+# Editor
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
+.worktrees/
